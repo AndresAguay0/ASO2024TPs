@@ -8,4 +8,3 @@ No son iguales los tiempos de ejecuciòn.
 
 c)
 Lo que pasa cuando se activan las lineas indicadas, es el tiempo de la operaciòn aumenta significativamente, en mi caso unos 6 segundos. Creerìa que es debido a que se le añade un proceso que recorre un rango de numeros bastante grande que produce que el proceso principal se ralentice.
-
