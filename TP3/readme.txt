@@ -1,1 +1,1 @@
-1) Pude notar que el archivo tiene tiempos de ejecuciòn distintos.
+1) Pude notar que el archivo "conhilos" tiene un tiempo de ejecuciòn menor al del archivo "sinhilos", aunque siguen teniendo variaciones en cada ejecucion consigo mismos, lo que hace a los dos archivos impredecibles. Ademàs creo que tambièn varìan si se està usando la computadora con alguna otra funciòn.
