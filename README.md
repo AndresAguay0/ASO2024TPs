@@ -9,3 +9,9 @@ c) Lo que pasa cuando se activan las lineas indicadas, es el tiempo de la operac
 
 2)
 ![DiagramaNuevoHamburguesas](https://github.com/AndresAguay0/ASO2024TPs/assets/87208938/e200ab08-5621-4853-a65b-94f13e751674)
+
+
+PARCIAL
+
+Link del video:
+https://youtu.be/-JRqBNxeUF0
