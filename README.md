@@ -14,4 +14,4 @@ c) Lo que pasa cuando se activan las lineas indicadas, es el tiempo de la operac
 PARCIAL
 
 Link del video:
-https://youtu.be/-JRqBNxeUF0
+https://youtu.be/hluFe3Tq5ps
