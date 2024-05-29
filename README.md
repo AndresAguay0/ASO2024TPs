@@ -5,7 +5,7 @@ a) Pude notar que el archivo "conhilos" tiene un tiempo de ejecuciòn menor al d
 
 b) No son iguales los tiempos de ejecuciòn.
 
-c) Lo que pasa cuando se activan las lineas indicadas, es que el tiempo de la operaciòn aumenta significativamente, en mi caso unos 6 segundos. Lo que pasa es que el programa ya de por sí da un muy mínimo lugar a error, porque ambos hilos usan la misma variable global, lo cual los lleva a la zona crítica. El tema es que cuando se sacan los comentarios, cada uno de los hilos ejecuta su función durante mas unidades de tiempo, lo que hace que ese minimo posible error de antes, se haga mas notorio y visible.
+c) Lo que pasa cuando se activan las lineas indicadas, es que el tiempo de la operaciòn aumenta significativamente, en mi caso unos 6 segundos. Lo que pasa es que el programa ya de por sí da un muy mínimo lugar a error, porque ambos hilos usan la misma variable global, lo cual los lleva a la zona crítica por generar un race condition. El tema es que cuando se sacan los comentarios, cada uno de los hilos ejecuta su función durante mas unidades de tiempo, lo que hace que ese minimo posible error de antes(race condition) se haga mas notorio y visible.
 
 2)
 ![DiagramaNuevoHamburguesas](https://github.com/AndresAguay0/ASO2024TPs/assets/87208938/e200ab08-5621-4853-a65b-94f13e751674)
